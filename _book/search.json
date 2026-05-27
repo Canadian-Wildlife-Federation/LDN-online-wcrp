@@ -1,0 +1,328 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
+    "section": "",
+    "text": "Executive Summary\nThe purpose of the Stewiacke Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Atlantic Salmon (Plamu) and American Eel (Kataq) in the Stewiacke watershed and inform efforts to close knowledge gaps and plan and prioritize restoration. Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat, and informing restoration prioritization. As knowledge gaps are closed and barriers are addressed, this plan will be revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures.",
+    "crumbs": [
+      "Executive Summary"
+    ]
+  },
+  {
+    "objectID": "index.html#current-connectivity-status",
+    "href": "index.html#current-connectivity-status",
+    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
+    "section": "Current Connectivity Status",
+    "text": "Current Connectivity Status\nIn the Stewiacke watershed, 1005.73 km of Atlantic Salmon habitat are currently connected to the ocean and 1414.91 km are disconnected from it. This means that 41.5% of the 2,420.64 km of total habitat is connected.\nIn the Stewiacke watershed, 891.94 km of American Eel habitat are currently connected to the ocean and 981.76 km are disconnected from it. This means that 47.6% of the 1,873.7 km of total habitat is connected.",
+    "crumbs": [
+      "Executive Summary"
+    ]
+  },
+  {
+    "objectID": "index.html#structure-count",
+    "href": "index.html#structure-count",
+    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
+    "section": "Structure Count",
+    "text": "Structure Count\nIn the Stewiacke watershed, 3403 structures potentially disconnect Atlantic Salmon habitat (Figure 1) and 1078 structures potentially disconnect American Eel habitat (Figure 2). Based on previous assessments, 15 of these structures require additional fish-passage assessments, and 4 require in-depth habitat assessments.\n \n \n\n\nFigure 3:Habitat Accumulation Curve (HAC) showing structures in the Stewiacke watershed as of April 24, 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon (Plamu) is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.\n\n\n\n\n\nFigure 4: Habitat Accumulation Curve (HAC) showing structures in the Stewiacke watershed as of April 24, 2026. Structures are ranked based on how much (km) weighted habitat for American Eel (Kataq) is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
+    "crumbs": [
+      "Executive Summary"
+    ]
+  },
+  {
+    "objectID": "index.html#progress-summary",
+    "href": "index.html#progress-summary",
+    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
+    "section": "Progress Summary",
+    "text": "Progress Summary\nThis WCRP was initiated in 2025. Since then, salmon and eel accessibility and habitat models were developed, satellite imagery review was conducted, and 92 fish passage assessments completed between 2014-2024 by the Confederacy of Mainland Mi’kmaq (CMM) were incorporated into the initial connectivity model.",
+    "crumbs": [
+      "Executive Summary"
+    ]
+  },
+  {
+    "objectID": "content/project-overview.html",
+    "href": "content/project-overview.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Purpose\nThe purpose of the Stewiacke Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Atlantic Salmon and American Eel in the Stewiacke watershed and inform efforts to close knowledge gaps and plan and prioritize field assessments and restoration.\nLocal data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat.\nThis information is also used to inform and plan restoration efforts. Structure rankings inform restoration prioritization by summarizing what is known about fragmentation and showing the relative amount of habitat upstream of each barrier. Actual prioritization of restoration activities is a social decision that requires additional information, including the quality and condition of upstream habitat, the cultural importance of different areas within the watershed, and the costs and logistics of addressing each barrier relative to the ecological benefits of doing so.\nAs knowledge gaps are closed and barriers are addressed, this plan is revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "content/project-overview.html#scope",
+    "href": "content/project-overview.html#scope",
+    "title": "Introduction",
+    "section": "Scope",
+    "text": "Scope\nThis WCRP focuses on habitat connectivity for Atlantic Salmon and American Eel in the Stewiacke watershed (Figure 5). Model outputs include an estimate of the current connectivity status along with structure ranks and counts. A connectivity model was developed for each species separately. For Atlantic Salmon, we modelled the connectivity status of spawning and rearing habitat. Channel gradients most typically associated with these preferred spawning and rearing habitats range from 0.12 to 25%; with highest concentrations below 3% (Amiro 1993). For the American Eel, we modelled the connectivity status of all 2+ order stream segments, to capture high-value habitat used for growth and feeding.\nConnectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams, stream crossings, and aboiteaux. Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity.\n\n\nFigure 5:Map of the geographic scope of this connectivity restoration plan for Atlantic Salmon and American Eel in the Stewiacke watershed in Nova Scotia.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "content/glossary.html",
+    "href": "content/glossary.html",
+    "title": "Glossary",
+    "section": "",
+    "text": "General Terms",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "content/glossary.html#general-terms",
+    "href": "content/glossary.html#general-terms",
+    "title": "Glossary",
+    "section": "",
+    "text": "Freshwater connectivity\nThe degree to which aquatic species can move, disperse, or migrate freely through freshwater systems.\n\n\nFocal species or guilds\nThe ecologically and culturally important species (e.g., Westslope Cutthroat Trout) or groups of species for which habitat connectivity is being conserved or restored.\n\n\nStructure\nA feature, either anthropogenic (e.g., culvert, dam) or a temporary natural feature (e.g., barrier beach, debris jam) that may fragment freshwater systems and limit the ability of species to disperse and/or migrate freely within their naturally accessible habitat. Differentiated from more permanent natural features, such as waterfalls, that delineate naturally-accessible waterbodies.\n\n\nSet of structures\nA set of two or more structures that must be addressed/considered together to achieve a combined increase in habitat connectivity.\n\n\nCurrent connectivity status\nthe measure (i.e., amount, proportion, or index) of habitat that is currently connected for each focal species, assuming that all unassessed structures are barriers. \n\n\nRank\nThe relative importance of a structure (individually and/or in sets) based on the amount (km) of habitat blocked by it. For sets of structures, the total amount of habitat blocked by the set is averaged by the number of barriers in the set.\n\n\nHabitat\nKey habitat that is likely to support important life stages for focal species (i.e., spawning and rearing), rather than simply movement corridors.",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "content/glossary.html#structure-status-terms",
+    "href": "content/glossary.html#structure-status-terms",
+    "title": "Glossary",
+    "section": "Structure Status Terms",
+    "text": "Structure Status Terms\n\nUnassessed structures\nMapped structures that have not been assessed in the field.\n\n\nExcluded Structures\nStructures that were investigated and removed from consideration or the model because they do not exist, are passable, or that no habitat was found upstream.\n\n\nData-deficient barriers\nStructures that have had some form of assessment but need further investigation before a decision can be made as to whether they will be listed as a priority.\n\n\nPriority barrier\nStructures that were assessed as barriers with habitat upstream, and for which fish-passage rehabilitation is being pursued.\n\n\nNon-actionable barriers\nStructures that were assessed as barriers with habitat upstream, but for which fish-passage rehabilitation is not being actively pursued.\n\n\nRehabilitated barriers\nBarriers that were removed, replaced, or modified to improve fish passage.",
+    "crumbs": [
+      "Glossary"
+    ]
+  },
+  {
+    "objectID": "content/methods.html",
+    "href": "content/methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Accessibility Model\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Atlantic Salmon, accessibility limits were defined by &gt;5 m waterfalls or &gt;30% channel gradients. For American Eel, all rivers were considered accessible.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/methods.html#habitat-model",
+    "href": "content/methods.html#habitat-model",
+    "title": "Methods",
+    "section": "Habitat Model",
+    "text": "Habitat Model\nA subset of the naturally accessible waterbody layer that is defined as key habitat (e.g., habitat likely to support spawning or rearing) (henceforth habitat), rather than simply being used as a movement corridor. An intrinsic potential modelling approach was used to identify areas that have the potential to support spawning or rearing for Atlantic Salmon based on stream characteristics such as gradient and discharge. For American Eel, habitat was identified by removing first-order streams from the accessible waterbody layer, recognizing that these streams typically have low habitat value for these species. Habitat model outputs were overruled by field data and local knowledge of habitat condition and use.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/methods.html#connectivity-modelling",
+    "href": "content/methods.html#connectivity-modelling",
+    "title": "Methods",
+    "section": "Connectivity Modelling",
+    "text": "Connectivity Modelling\nThe overall model used to estimate connectivity status and rank structures. A layer of known or modelled structures was overlaid on the habitat model output. Modelled stream crossings were created from stream network and road/railway Geographic Information System (GIS) data, by mapping where a road or railway crosses a stream. Dam data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). All mapped dams and modelled crossings (henceforth structures) downstream of habitat were considered, but some were classified as non-existent or passable prior to initiating field work and excluded from the model. Stream crossings on 6th order and larger streams were assumed to be bridges and classified as passable, as were those identified as bridges in available infrastructure spatial layers. Remaining structures downstream of habitat were checked on Google Earth to exclude structures if it could be visibly confirmed that they did not exist or were bridges or cross-ditches. Data from previous field assessments were incorporated, and structures identified as passable were excluded. Assessed barriers, dams lacking fishways, and unassessed structures were all treated as barriers in the connectivity model. If barriers were presumed to be partially passable, the degree of passability was estimated (25%, 50%, or 75%), and the amount of habitat upstream of that barrier was downweighted according to the passability of all downstream barriers. For example, a 10-km habitat patch with two downstream partial barriers (both with 50% passability) would represent 2.5 km of weighted habitat.\nLocal knowledge and data were incorporated into model development in two phases and typically overruled modelled outputs where the two differed. Existing reports on habitat, barriers, and fish distributions, when available, were incorporated into the initial model outputs. Maps of initial outputs were then shared with local knowledge holders, who identified model errors or omissions (e.g., unmapped structures, mapped structures that do not exist, known spawning or rearing habitat that was not identified by the model, habitat identified by the model that is known to be inaccessible or unsuitable). The status of closed-bottom structures identified as passable by local knowledge may not have been adjusted until confirmed by field assessments.\nModels were run to produce initial connectivity outputs, and maps were created showing disconnected habitat and associated structures. For diadromous species (both Atlantic Salmon and American Eel), connectivity status was estimated by calculating the proportion of habitat that is connected to the ocean (i.e., not fragmented by human-made barriers). Habitat with no structures or only passable structures downstream was considered connected. Habitat amount was calculated in linear kilometers downweighted according to the passability of all downstream barriers and by stream order, with first-order streams downweighted by 75%, and second-order streams downweighted by 25%.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/methods.html#structure-ranking",
+    "href": "content/methods.html#structure-ranking",
+    "title": "Methods",
+    "section": "Structure Ranking",
+    "text": "Structure Ranking\nStructures were ranked by the amount of weighted habitat upstream, with the highest ranked structure given a rank of 1. Unassessed structures were considered barriers for ranking purposes. Ranks generally represent the relative amount of habitat upstream. Actual ranking processes are more complex to account for situations where multiple barriers may need to be addressed to reconnect habitat. Barriers with the most habitat upstream may not provide any benefits to focal species until downstream barriers are addressed.\nTo manage this, both the overall habitat upstream, and immediate gains (i.e., the amount of habitat to the next structure) are incorporated into the ranking process. This ensures that the first structure encountered by fish is given a high rank, even if, for example, it only blocks only 1 km of habitat. Conversely, a structure blocking 20 km of habitat may be given a lower rank if many downstream structures must be addressed before those gains can be realized.\nStructures are also combined into sets by considering which configuration of groups of up to five structures provides the greatest per-barrier habitat gain. Sets are often identified sequentially by first identifying optimal downstream set configurations, then considering additional upstream sets.\nStream order is also factored into the ranking process, to avoid overvaluing structures where most of the upstream habitat comprises small streams with more limited habitat value. First-order streams are downweighted by 75%, and second-order streams are downweighted by 25%.",
+    "crumbs": [
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html",
+    "href": "content/connectivity-status.html",
+    "title": "Connectivity Status Results",
+    "section": "",
+    "text": "Current Connectivity Status\nIn the Stewiacke watershed, 1005.73 km of Atlantic Salmon habitat are currently connected to the ocean and 1414.91 km are disconnected from it. This means that 41.5% of the 2,420.64 km of total habitat is connected.\nIn the Stewiacke watershed, 891.94 km of American Eel habitat are currently connected to the ocean and 981.76 km are disconnected from it. This means that 47.6% of the 1,873.7 km of total habitat is connected.",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#structure-count",
+    "href": "content/connectivity-status.html#structure-count",
+    "title": "Connectivity Status Results",
+    "section": "Structure Count",
+    "text": "Structure Count\nIn the Stewiacke watershed, 3403 structures potentially disconnect Atlantic Salmon habitat (Figure 1), and 1078 structures potentially disconnect American Eel habitat (Figure 2). Based on previous assessments, 15 of these structures require additional fish-passage assessments, and 4 require in-depth habitat assessments.",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#maps",
+    "href": "content/connectivity-status.html#maps",
+    "title": "Connectivity Status Results",
+    "section": "Maps",
+    "text": "Maps\n\n\nFigure 1: Map of Atlantic Salmon (Plamu) habitat and A) all structures that are confirmed or potential barriers to fish passage in the Stewiacke watershed as of April 24, 2026; and B) the top-20 ranked structures labelled. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that Atlantic Salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by Atlantic Salmon for spawning and rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick orange lines represent partially disconnected habitat (upstream of a partial barrier), and thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).  A\n\n\n\n\n\nB\n\n\n\n\n\nFigure 2: Map of American Eel (Kataq) habitat and A) structures that are confirmed or potential barriers to fish passage in the Stewiacke watershed as of April 24, 2026; and B) the top-20 ranked structures labelled. Structure data were obtained from the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that American Eel could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by American Eel for growth and feeding. Available local knowledge and data were incorporated and overruled habitat model results. Thick orange lines represent partially disconnected habitat (upstream of a partial barrier), and thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). A\n\n\n\n\n\nB",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#habitat-accumulation-curves",
+    "href": "content/connectivity-status.html#habitat-accumulation-curves",
+    "title": "Connectivity Status Results",
+    "section": "Habitat Accumulation Curves",
+    "text": "Habitat Accumulation Curves\n\n\nFigure 3: Habitat Accumulation Curve (HAC) showing structures in the Stewiacke watershed as of April 24, 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon (Plamu) is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.\n\n\n\n\n\nFigure 4: Habitat Accumulation Curve (HAC) showing structures in the Stewiacke watershed as of April 24, 2026. Structures are ranked based on how much (km) weighted habitat for American Eel (Kataq) is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/connectivity-status.html#habitat-accumulation-summary-table",
+    "href": "content/connectivity-status.html#habitat-accumulation-summary-table",
+    "title": "Connectivity Status Results",
+    "section": "Habitat Accumulation Summary Table",
+    "text": "Habitat Accumulation Summary Table\n\nTable 1. Labelled structures in the Habitat Accumulation Curve\n(Figure 3), their rank, and weighted upstream habitat for Atlantic\nSalmon in the Stewiacke watershed. Weighted Habitat Gain per Set\nrepresents the amount (km) of weighted habitat upstream of that\nstructure to the next structure and depicts the immediate potential gain\nin habitat if passage at that structure was restored. Total Weighted\nHabitat Upstream per Set (km) represents the total amount (km) of\nweighted habitat upstream of the set, regardless of upstream structures,\nand depicts the long-term potential gain in habitat if passage at that\nstructure (and all other upstream structures) was restored. Structure\nrank represents the model ranking of all sets of 1 or more\nstructures.Barrier IDInternal NameStructure StatusRank OrderWeighted Habitat Gain per Set (km)Total Weighted Habitat Upstream per Set (km)ed179bc0-78b6-4ac3-ae79-b9ec6da89ccbLock 4 (Fletcher Lock)Unassessed117.4417.44623c25d0-f876-41c0-a063-ef47f67978b2St. Andrews River Project DamUnassessed219.1919.1978a1a7e8-7ce2-4f03-8eaf-42afc50d8982Cox Brook @ Unknown TrackUnassessed310.7610.7644b87474-58d3-4b96-9c41-8d2fa6d66982Otter Brook @ Unknown TrackUnassessed48.788.783bd0856e-e239-49e9-a060-8d4d0c6656b0North Brook @ HN0480-Renfrew RdUnassessed59.2718.539e2cede3-c764-49a9-b716-fa6afc685d6aNorth Brook @ Unknown TrackUnassessed59.2718.53974d5015-90eb-4750-9d97-0ef4a967348cBarneys Brook @ RailroadUnassessed67.107.10e64ab6e3-d185-47c5-a906-0a8c357ec6a8Grant Brook @ Unknown TrackUnassessed74.839.65a176b649-5618-4faa-90e1-b03c0bca9cd0Grant Brook @ Sandy Desert RdUnassessed74.839.6573efeeeb-9ee5-4e12-8ed4-1cf2a3667e53Carrigan Brook @ HN0412-Old Renfrew RdUnassessed88.748.74aed1f730-34af-4a2e-bc9f-db39c112b556Chapman Brook 1Unassessed94.7714.31ab5eccc6-7fca-4306-8908-7662cb8868a7Chapman Brook 2Unassessed94.7714.3113148878-7191-4557-8b32-615919e5a420Chapman Brook 3Unassessed94.7714.3143c97b79-d659-425c-9f20-6374dec1a724Selma Brook @ Hwy 215Unassessed105.155.15885c2434-f4be-426c-a796-3a365589dce8Fulton Brook @ Unknown Track 1Unassessed114.9514.845ca474ff-b0d4-44b9-bbb8-9bd2bf37ee29Fulton Brook @ Unknown Track 2Unassessed114.9514.8418d0a016-e8d0-4a49-8496-868f193fe3fbFulton Brook @ Unknown Track 3Unassessed114.9514.84f3e31f11-7892-4d32-9eb2-f2ca2077b8e1Goshen Brook @ Unknown RdUnassessed125.875.87bfb7aed0-d4b9-4ad2-96ad-13f26fe9cda8Indian Brook @ Brown Flats RdUnassessed135.965.962909e41f-151c-4f7e-9172-b5ed545d5a7aSTR001B-18Data-deficient barrier148.538.5376a3199a-5cb7-4035-a77b-f93b4a0af738McLean Brook @ Unknown Track 1Unassessed154.889.7658343a0b-dd3b-4f5e-b9e8-a99110949d16McLean Brook @ Unknown Track 2Unassessed154.889.7674d5909b-03fb-4a18-965d-228c90388ffcSquare Lake @ Fenerty LakeUnassessed164.074.07723b7021-4a65-4ac4-8442-9d17afe18da5Captain McPhee BrookUnassessed173.306.611d4f6bd1-8b5b-44ca-a286-2661ee348ad1Captain McPhee Brook @ Hwy 14Unassessed173.306.613d2848ac-bccb-4638-9cca-d09f9c1f1652Fisher Brook @ Unknown Track 1Unassessed184.779.538dda4361-fa92-4187-b803-708fefb0a463Fisher Brook @ Unknown Track 2Unassessed184.779.53f4c23d26-8176-47ba-a065-5e4ca7fe0301Pleasant Brook @ Unknown TrackUnassessed194.814.81538760d9-269a-42a3-9351-ba0c76ea0d59South Branch Gays River @ Unknown RdUnassessed204.184.18\n\n\nTable 2. Labelled structures in the Habitat Accumulation Curve\n(Figure 4), their rank, and weighted upstream habitat for American Eel\nin the Stewiacke watershed. Weighted Habitat Gain per Set represents the\namount (km) of weighted habitat upstream of that structure to the next\nstructure and depicts the immediate potential gain in habitat if passage\nat that structure was restored. Total Weighted Habitat Upstream per Set\n(km) represents the total amount (km) of weighted habitat upstream of\nthe set, regardless of upstream structures, and depicts the long-term\npotential gain in habitat if passage at that structure (and all other\nupstream structures) was restored. Structure rank represents the model\nranking of all sets of 1 or more structures.Barrier IDInternal NameStructure StatusRank OrderWeighted Habitat Gain per Set (km)Weighted Total Habitat Upstream (km) per Seted179bc0-78b6-4ac3-ae79-b9ec6da89ccbLock 4 (Fletcher Lock)Unassessed116.5316.53623c25d0-f876-41c0-a063-ef47f67978b2St. Andrews River Project DamUnassessed217.4617.4678a1a7e8-7ce2-4f03-8eaf-42afc50d8982Cox Brook @ Unknown TrackUnassessed39.429.423bd0856e-e239-49e9-a060-8d4d0c6656b0North Brook @ HN0480-Renfrew RdUnassessed47.8515.709e2cede3-c764-49a9-b716-fa6afc685d6aNorth Brook @ Unknown TrackUnassessed47.8515.70974d5015-90eb-4750-9d97-0ef4a967348cBarneys Brook @ RailroadUnassessed56.996.9944b87474-58d3-4b96-9c41-8d2fa6d66982Otter Brook @ Unknown TrackUnassessed67.517.51e64ab6e3-d185-47c5-a906-0a8c357ec6a8Grant Brook @ Unknown TrackUnassessed74.549.07a176b649-5618-4faa-90e1-b03c0bca9cd0Grant Brook @ Sandy Desert RdUnassessed74.549.0773efeeeb-9ee5-4e12-8ed4-1cf2a3667e53Carrigan Brook @ HN0412-Old Renfrew RdUnassessed87.667.66aed1f730-34af-4a2e-bc9f-db39c112b556Chapman Brook 1Unassessed94.2512.74ab5eccc6-7fca-4306-8908-7662cb8868a7Chapman Brook 2Unassessed94.2512.7413148878-7191-4557-8b32-615919e5a420Chapman Brook 3Unassessed94.2512.74885c2434-f4be-426c-a796-3a365589dce8Fulton Brook @ Unknown Track 1Unassessed104.448.885ca474ff-b0d4-44b9-bbb8-9bd2bf37ee29Fulton Brook @ Unknown Track 2Unassessed104.448.8843c97b79-d659-425c-9f20-6374dec1a724Selma Brook @ Hwy 215Unassessed114.504.50f3e31f11-7892-4d32-9eb2-f2ca2077b8e1Goshen Brook @ Unknown RdUnassessed124.964.96bfb7aed0-d4b9-4ad2-96ad-13f26fe9cda8Indian Brook @ Brown Flats RdUnassessed135.505.5076a3199a-5cb7-4035-a77b-f93b4a0af738McLean Brook @ Unknown Track 1Unassessed144.338.6758343a0b-dd3b-4f5e-b9e8-a99110949d16McLean Brook @ Unknown Track 2Unassessed144.338.672909e41f-151c-4f7e-9172-b5ed545d5a7aSTR001B-18Data-deficient barrier156.966.96723b7021-4a65-4ac4-8442-9d17afe18da5Captain McPhee BrookUnassessed163.026.031d4f6bd1-8b5b-44ca-a286-2661ee348ad1Captain McPhee Brook @ Hwy 14Unassessed163.026.03f4c23d26-8176-47ba-a065-5e4ca7fe0301Pleasant Brook @ Unknown TrackUnassessed174.484.4814cf9a6d-f41a-4d53-aad0-130e2369900eBennery Brook @ Unknown TrackUnassessed182.745.47e72c0157-201c-46d0-bbd2-9dd66a1458cfBennery Brook off HWY102Unassessed182.745.47538760d9-269a-42a3-9351-ba0c76ea0d59South Branch Gays River @ Unknown RdUnassessed193.883.8874d5909b-03fb-4a18-965d-228c90388ffcSquare Lake @ Fenerty LakeUnassessed202.962.96",
+    "crumbs": [
+      "Connectivity Status Results"
+    ]
+  },
+  {
+    "objectID": "content/work-planning.html",
+    "href": "content/work-planning.html",
+    "title": "Work Planning",
+    "section": "",
+    "text": "Structure Ranking Context\nStructures are primarily ranked to inform field-assessment planning. Higher ranked structures have greater potential contributions toward habitat connectivity restoration and are therefore typically higher priorities for field assessment. They also represent key knowledge gaps with potential to significantly affect model results. Estimates of current connectivity status could improve considerably, for instance, if many high-ranking structures are passable or do not have habitat upstream. Habitat accumulation curves support decision-making around how many and which structures should be assessed, by showing which structures may only minimally affect connectivity. High-ranked structures with minimal habitat upstream may be located low on these curves, because they must be addressed before benefits can be achieved by addressing lower ranked barriers with more upstream habitat.\nIf confirmed as barriers, high-ranking structures are also often priorities for further field assessments to confirm upstream habitat before decisions are made about where fish passage should be rehabilitated.\nOnce field assessments are completed, management decisions are made for each assessed structure. An assessed structure may be excluded from the model if it is passable or there is no habitat upstream, or it may be listed as a priority barrier for fish-passage rehabilitation. Alternatively, some structures confirmed as barriers may be considered “non-actionable” because the amount and quality of habitat upstream may be low and the costs of rehabilitation may be high relative to those limited potential benefits.\nModel ranks provide only limited information on the relative value of rehabilitation among priority barriers. Ranks convey only the relative amount of habitat upstream and do not represent other factors relevant to restoration prioritization, such as habitat quality, cost, social priorities, or logistical constraints and opportunities. Deciding which priority barriers to address first is a social-decision making process that is only partially informed by model output. Model outputs also provide broader context about how many structures exist in the system, how many have been identified as priority barriers, and how much habitat is upstream of each relative to others.",
+    "crumbs": [
+      "Work Planning"
+    ]
+  },
+  {
+    "objectID": "content/work-planning.html#workplan",
+    "href": "content/work-planning.html#workplan",
+    "title": "Work Planning",
+    "section": "Workplan",
+    "text": "Workplan\n\nTable 3. Implementation plan for 2026 to close knowledge gaps and\nadvance barrier rehabilitation to improve connectivity for Atlantic\nSalmon and American Eel in the Stewiacke watershed. Steps to incorporate\nfield data, update models, and revise this WCRP are also included.Strategies/ActionsLeadParticipants1.1 Complete detailed fish-passage assessments for top-ranked structures(including data-deficient barriers and unassessed structures)CMMCMM, support from CWF1.2 Complete detailed habitat assessments for data-deficient barriersCMM CMM, support from CWF2. Create a management plan for structures assessed as passable over 10 years ago, that require follow up assessmentsCMM3. Re-run connectivity models with updated habitat and passage assessment dataCWF",
+    "crumbs": [
+      "Work Planning"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html",
+    "href": "content/progress-reporting.html",
+    "title": "Progress Reporting",
+    "section": "",
+    "text": "Progress Reporting\nThis WCRP was initiated in 2025. Since then, salmon and eel accessibility and habitat models were developed, satellite imagery review was conducted, and 92 fish passage assessments completed between 2014-2024 by CMM were incorporated into the initial connectivity model.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html#rehabilitated-barriers",
+    "href": "content/progress-reporting.html#rehabilitated-barriers",
+    "title": "Progress Reporting",
+    "section": "Rehabilitated Barriers",
+    "text": "Rehabilitated Barriers\nThere were no barriers rehabilitated through this WCRP as of 2026.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/progress-reporting.html#annual-progress-report",
+    "href": "content/progress-reporting.html#annual-progress-report",
+    "title": "Progress Reporting",
+    "section": "Annual Progress Report",
+    "text": "Annual Progress Report\nSince March 1st, 2025 the following actions were completed:\n\nNinety-two fish passage assessments completed by CMM between 2014-2024 were incorporated into the initial model development. Of the 65 sites assessed (with several repeating over time), 19 were categorized as data-deficient barriers and 46 as excluded structures.\nAdditionally, 12 of the excluded structures assessed over 10 years ago as passable, but with one or more potential concerns related to the outflow drop, culvert length/slope, stream-width ratio, or condition of the culvert were flagged for future re-assessment.\nThe connectivity models were updated based on the above actions, and outputs were incorporated into this WCRP.",
+    "crumbs": [
+      "Progress Reporting"
+    ]
+  },
+  {
+    "objectID": "content/references.html",
+    "href": "content/references.html",
+    "title": "Acknowledgements and References",
+    "section": "",
+    "text": "Recommended Citation\nRoberts, D., L. Amiro, R. Macleod, W. Richards, N. Mazany-Wright, F. Montgomery, B. Rebellato, and N. W. R. Lapointe. 2026. Stewiacke watershed connectivity restoration plan. Confederacy of Mainland Mi’kmaq. Nova Scotia, Canada.",
+    "crumbs": [
+      "Acknowledgements and References"
+    ]
+  },
+  {
+    "objectID": "content/references.html#acknowledgements",
+    "href": "content/references.html#acknowledgements",
+    "title": "Acknowledgements and References",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nCMM and CWF recognize that the lands and waters that form the basis of this plan are the traditional unceded territory of the Mi’kmaw peoples. Plan development was funded by the Department of Fisheries and Ocean’s Habitat Stewardship Program for Species at Risk. Members of the planning team (Appendix B) are passionate about the conservation and restoration of freshwater ecosystems and the species they support, and contributed feedback, guidance, and knowledge. Accessibility models were inspired by fish-passage prioritization approaches developed by British Columbia’s Fish Passage Technical Working Group.",
+    "crumbs": [
+      "Acknowledgements and References"
+    ]
+  },
+  {
+    "objectID": "content/references.html#references",
+    "href": "content/references.html#references",
+    "title": "Acknowledgements and References",
+    "section": "References",
+    "text": "References\nAmiro, P. G. (1993). Habitat measurement and population estimation of juvenile Atlantic salmon (Salmo salar) (Canadian Special Publication of Fisheries and Aquatic Sciences No. 118). Department of Fisheries and Oceans.",
+    "crumbs": [
+      "Acknowledgements and References"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html",
+    "href": "content/appendix-a.html",
+    "title": "Appendix A – Status of Structures Assessed in the Field",
+    "section": "",
+    "text": "Priority Barriers\nThere were no non-actionable barriers identified through this WCRP as of 2026.",
+    "crumbs": [
+      "Appendices",
+      "Appendix A – Status of Structures Assessed in the Field"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html#priority-barriers-1",
+    "href": "content/appendix-a.html#priority-barriers-1",
+    "title": "Appendix A – Status of Structures Assessed in the Field",
+    "section": "Priority Barriers",
+    "text": "Priority Barriers\nThere were no non-actionable barriers identified through this WCRP as of 2026.",
+    "crumbs": [
+      "Appendices",
+      "Appendix A – Status of Structures Assessed in the Field"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html#data-deficient-barriers",
+    "href": "content/appendix-a.html#data-deficient-barriers",
+    "title": "Appendix A – Status of Structures Assessed in the Field",
+    "section": "Data-deficient Barriers",
+    "text": "Data-deficient Barriers\n\nTable 4. Structures in Stewiacke watershed that have been assessed\nfor fish passage for Atlantic Salmon and American Eel as of April 24th,\n2026, but either require an additional in-depth fish-passage assessment\nto confirm the passability status or a habitat assessment to confirm\nupstream habitat is present.Barrier IDInternal NameAssessment Step CompletedNext StepsNotes2909e41f-151c-4f7e-9172-b5ed545d5a7aSTR001B-18Barrier assessmentHabitat confirmationCMM 2018 Data: Circular concrete culvert; Culvert B is broken near the inflow. B looks to be high flow culvert; Culvert A has 3 concrete baffles. A lot of juvenile fish present up and downstream. Juvenile snapping turtle seen; site seems important for juvenille fishf6f9016c-cac0-4309-8b71-1981fc343d375-24Informal assessmentHabitat confirmationCMM 2024 Data: Rounded, steel culvert; destroyed; likely not fish habitat upstream 9df634fe-b2fd-4a1f-ac28-ba1cdea7831012-24Informal assessmentHabitat confirmationCMM 2024 Data: Rounded, plastic culvert; needs replacing94a3ddf5-45a3-4534-a9a4-b325ff992d708-24Informal assessmentHabitat confirmationCMM 2024 Data: Wooden, box culvert; needs structural repairsdef21108-3c0d-4091-9fd8-a343c0464bf87-24Informal assessmentHabitat confirmationCMM 2024 Data: Wooden, box culvert; needs structural repairs737ec83e-875f-4eea-a9b9-2686362fdb0bSTT015Barrier assessmentUpdated barrier assessmentCMM 2014 Data: Wooden box culvert with unnatural bottom4f834a33-c812-4c00-a755-c9dea789a8a4STT042A-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated metal pipe (circular), two culverts present3cf0beac-7403-49f0-9c36-1c758cbf1666STT032B-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Wooden box culvert 67c2264b-3273-4742-a600-d774143dd678STT008-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Wooden box culvert6c48e1c3-e9d2-4bda-a267-7a2993f94324STT044-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated metal pipe7125de63-d3f9-4c17-b281-a6ef736fdc76STT026Barrier assessmentUpdated barrier assessmentCMM 2014 Data: Corrugated metal pipe 37613485-6a5d-4e2f-892f-cb0977d12be1STT033-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Concrete circular culvert4e5a175d-fef2-4737-b944-2649f1583c0dSTT034-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated plastic culvert591c729d-fb30-495e-aec4-0c139f051a92STT040-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated metal pipe; noted as fish habitatf0d158cf-bb18-4a19-a1fa-d1ecf13c0d1cSTT016-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: corrugated metal pipee07fdb41-2c8b-4fbc-9229-d90a94875f2aSTT038-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated metal pipe (spiral)e8881fdc-de02-41f6-80a3-e4732f1b5063STT036-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated metal pipe; noted as fish habitat07fe1dbb-d0a9-4108-b6a2-0cc0a3bb42e5STT003Barrier assessmentUpdated barrier assessmentCMM 2014 Data: Corrugated metal pipe (spiral)94c9a3b0-ecf0-4c6b-b461-ee02cc433a65STT035-15Barrier assessmentUpdated barrier assessmentCMM 2015 Data: Corrugated metal pipe (spiral)",
+    "crumbs": [
+      "Appendices",
+      "Appendix A – Status of Structures Assessed in the Field"
+    ]
+  },
+  {
+    "objectID": "content/appendix-a.html#excluded-structures",
+    "href": "content/appendix-a.html#excluded-structures",
+    "title": "Appendix A – Status of Structures Assessed in the Field",
+    "section": "Excluded Structures",
+    "text": "Excluded Structures\n\nTable 5. Structures in Stewiacke watershed that are excluded from\nfurther consideration in subsequent ranking and work planning because\nthe structure is not present, or is confirmed passable (e.g., bridge) or\nhas no habitat upstream for Atlantic Salmon and American Eel.Internal NameBarrier IDReason for ExclusionNext StepsNotesSTT0170d710cdc-57a6-4dad-9328-91a63f75d223No key upstream habitatCMM 2014 Data: Concrete culvert, no fish habitatSTT016540f1db2-b211-45eb-b73c-96b69de6d7e7No key upstream habitatCMM 2014 Data: Corrugated metal pipe (annular), no fish habitatSTT01800b87262-1a35-4a3f-8929-bc7e8a19b684No key upstream habitatCMM 2014 Data: Circular wood, no fish habitatSTT020b06d8bec-e830-4d54-9d28-2a848f788806No key upstream habitatCMM 2014 Data: No fish habitatSTT02308b7e1a6-38c7-4dbf-a7b3-4be5732b601fNo key upstream habitatCMM 2014 Data: No fish habitat, concrete culvertSTT030a5db2966-c591-457e-9863-0b04a7228450No key upstream habitatCMM 2014 Data: Corrugated plastic pipe, no fish habitat STT009-16ffe4d9d0-5bac-4018-b486-018397b59f3cPassableCMM 2016 Data: Slightly crushed on inflow; too much brush to see inflow riffle; culvert debris at front but not a barrier; old culvert material downstream at outflowSTT042-156d2e1abc-8c7a-466c-93d2-0a2514494673PassableBarrier assessmentCMM 2015 Data: Corrugated Metal Pipe (Spiral) STT010-18045e79f5-0ab4-4e83-96a7-9ae5e8bf8b5cPassableBarrier assessmentCMM 2018 Data: Corregated metal pipe (annular); Severely deteriorated; Very rusted, some small rocks building up at outflow. Inflow habitat quite steep (waterfall like). Water not deep, water very cold; Not a great site to remediate as inflow is waterfall like.STT024-15dc842318-63c7-4564-90e0-82cbb634a438PassableBarrier assessmentCMM 2015 Data: Corrugated metal pipeSTT002a1783fa7-1ada-4c17-8f23-af5c365383c1PassableCMM 2014 Data: Wooden box culvert, open natural bottom, headwall without bafflesSTT037-1546ef6b7f-50e1-4ca4-9e91-7ae88a1ded34PassableBarrier assessmentCMM 2015 Data: Wood, circular unnatural bottom16R-2495d81056-0635-4601-9cbc-c057a3f08057PassableCMM 2024 Data: Passable, double wooden box culvertSTT039-15aa2a3bf1-d5f4-48d5-a919-d7e9b32d994aPassableBarrier assessmentCMM 2015 Data: Collapsed Bridge; Wooden boxSTT007-16783cd07c-c8a6-46d7-876b-8b3cee32d3d6PassableCMM 2016 Data: Circular concrete culvert; start of stream runs off ditch to start; completely drySTT005A-1621a7e100-d406-4827-83a4-c607f71caeabPassableBarrier assessmentCMM 2016 Data: Corregated plastic culvert; Small crack in culvert; stream at inflow gets wider further back; talk to local: he said the stream runs dry often, a swamp runs into it; nice looking stream bed; Chain PickeralSTT008-167462a40c-adb9-47ef-b0d4-3d9f689c4fb5PassableCMM 2016 Data: Circular, concrete culvert; Projecting partially but build as headwall; easy stream bed to seeSTT010-1534d2dd13-2b02-49f0-8f97-16aba86c3429PassableCMM 2015 Data: Concrete circular culvertSTT010-16158f0200-292f-41ee-bf28-5448b01b8bf7PassableCMM 2016 Data: Rusted culvert - slight square; mostly organic matter at inflow; water pooling, low movementSTT019a43bff1d-e8da-43c7-8704-21b562077778PassableCMM 2014 Data: Circular, wood culvert, unnatrual bottomSTT041-1518d97050-9c99-4802-9c29-95b341c08fa3PassableBarrier assessmentCMM 2015 Data: Corrugated metal pipe (Spiral)STT045-157d70ea38-df63-4055-bed3-e098c33b6a41PassableBarrier assessmentCMM 2015 Data: Wood, unnatrual bottomSTT006-1564567a50-9c74-4019-9e38-f80c7a595b3aPassableCMM 2015 Data: Concrete circular culvertBRIDGE008b9774f74-521b-45cc-8645-f1aca2fe151bPassableCMM 2014 Data: BridgeSTT009a0b42366-ef3c-48be-bf00-bd6c3d3daca9PassableCMM 2014 Data: Corrugated metal pipeSTT0145c8ddd52-6da8-4c35-aca8-4f439c2071bdPassableCMM 2014 Data: Corrugated metal pipe STT015(2)75eb0b35-1b2c-4c01-a20e-37081eb0350ePassableCMM 2014 Data: Wood circular culvert, unnatural bottomSTT031-1585ab2296-9dcb-4445-b4af-04b8144bdc2dPassableCMM 2015 Data: Wooden box culvertSTT013-151e24718a-3227-44dd-b9a9-cb3eb2f40f21PassableCMM 2015 Data: Corrugated metal pipeSTT00857b9cbb1-7461-4f0a-9aff-d783a0e82f68PassableCMM 2014 Data: Corrugated metal pipeSTT005-15b3152b52-9abe-4c00-a174-aba5caef07d1PassableBarrier assessmentCMM 15 Data: Wooden box culvert3R-248e82e29b-a5f5-4e3c-908e-eabe44e51cc4PassableCMM 2024 Data: Passable, wooden box culvert; CMM 2015 data: No remediation planned or completed, determined to not be a barrier to fish passage overall.8R-24b3fbc0a7-ba9d-492b-bad7-a5409080b69bPassableCMM 2024 Data: Passable wooden box culvert4-24db320d09-6f32-4d62-8d27-a5701d354d20PassableCMM 2024 Data: Passable, rounded/concrete culvertSTT027966bb8b7-357d-4206-8c7f-a6bbb2c7152ePassableBarrier assessmentCMM 2014 Data: Circular culvert, wood, unnatrual bottom material11-242bac574f-1abc-4f74-840f-9d82c02b3dbePassableCMM 2024 Data: Passable, wooden box culvert 10-24bee840e1-85fe-4cb0-b4c3-9d7982044faaPassableCMM 2024 Data: Passable, wooden bridge6R-24d2a284a0-c389-4af2-90c2-82857f4e03b0PassableCMM 2024 Data: Already remediated. Double box/ wooden13R-247beda6a9-acf0-44f8-a622-63fb7c2d5257PassableCMM 2024 Data: Passable, wooden boxSTT028857378b7-2e45-4f02-ace0-5f40cbac6e84PassableCMM 2014 Data: Corrugated metal pipeSTT0294e0d89f4-eff1-46ae-b312-a1f74b25ce18PassableCMM 2014 Data: Corrugated plastic culvertSTT031d27ca921-cc1f-4b12-b4e6-1e9fa6d1c4abPassableCMM 2014 Data: Wooden Box culvertSTT0332411f6a0-7fff-4f31-b764-0699f0ae0cbdPassableCMM 2014 Data: Corrugated metal pipeSTT025d8eeffe0-f493-4123-b367-1f93b64a414cPassableBarrier assessmentCMM 2014 Data: Corrugated metal pipeBRIDGE7c73fc3f-09dc-49cd-96a3-c9cf164a905cPassableCMM 2015 Data: BridgeSTT03260952390-bfa3-4892-961c-461f44b1a3bePassableBarrier assessmentCMM 2015 Data: Wood, circular, projecting headwall, unnatural bottom; crushed outlet",
+    "crumbs": [
+      "Appendices",
+      "Appendix A – Status of Structures Assessed in the Field"
+    ]
+  },
+  {
+    "objectID": "content/appendix-b.html",
+    "href": "content/appendix-b.html",
+    "title": "Appendix B – Partners and Detailed Methods",
+    "section": "",
+    "text": "Partners\nTable 6. Stewiacke WCRP planning team members. Planning team members\ncontributed to the development of this plan by participating in scoping\nand planning meetings and reviewing documents and data.NameOrganizationDesiree RobertsCMMLucasAmiroCMMRiley MacLeodCMMWill RichardsCMMFielding MontgomeryCanadian Wildlife FederationNick Mazany-WrightCanadian Wildlife FederationNicolas LapointeCanadian Wildlife FederationCourtney BrakeCanadian Wildlife Federation",
+    "crumbs": [
+      "Appendices",
+      "Appendix B – Partners and Detailed Methods"
+    ]
+  },
+  {
+    "objectID": "content/appendix-b.html#detailed-methods",
+    "href": "content/appendix-b.html#detailed-methods",
+    "title": "Appendix B – Partners and Detailed Methods",
+    "section": "Detailed Methods",
+    "text": "Detailed Methods\nFor details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for NSFishPass here:NSFishPass GitHub",
+    "crumbs": [
+      "Appendices",
+      "Appendix B – Partners and Detailed Methods"
+    ]
+  }
+]

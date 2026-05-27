@@ -1,0 +1,67 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: ""
+  author: "Canadian Wildlife Federation"
+  date: last-modified
+  date-format: "DD-MM-YYYY"
+  chapters:
+    - index.qmd
+    - content/project-overview.qmd
+    - content/glossary.qmd
+    - content/methods.qmd
+    - content/connectivity-status.qmd
+    - content/work-planning.qmd
+    - content/progress-reporting.qmd
+    - content/references.qmd
+  appendices: 
+    - content/appendix-a.qmd
+    - content/appendix-b.qmd
+    - content/appendix-c.qmd 
+  
+  
+  sidebar: 
+    pinned: true
+    logo: images/logo.png
+
+
+
+
+bibliography: references.bib
+# nocite: |
+#   @*
+
+format:
+  html:
+    css: style.css
+    theme: cosmo
+    toc: false
+    fig-cap-location: top
+    crossref:
+      fig-title: '**Figure**'
+      tbl-title: '**Table**'
+  pdf: 
+    toc: true
+    toc-depth: 2
+    documentclass: scrreprt
+    colorlinks: true
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+    # reference-doc: custom-reference-doc.docx
+    tbl-colwidths: [40, 30, 30]
+    keep-md: true
+    keep-ipynb: true
+
+
+#jupyter: "local-venv"
+
+# execute:
+#   cache: true
+
+#titlepage-bg-image: images/spawn.jpg
+
+title-block-banner: "#f6f6f6"

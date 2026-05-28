@@ -3,9 +3,12 @@
 
 ## Recommended Citation 
 
+Alec, S., R. Miills, O. Koppel, N. Mazany-Wright, F. Montgomery, B. Rebellato, S. Sra, and N. W. R. Lapointe. 2026. Lhtako Dene Nation watershed connectivity restoration plan. Canadian Wildlife Federation. Ottawa, Ontario, Canada.
 
 ## Acknowledgements {-}
 
-
+The lands and waters that form the basis of this plan are the traditional unceded territory of the Lhtako Dene Nation, a Dakelh (Carrier) First Nation located in the Northern Fraser Canyon of British Columbia. Plan development and implementation was funded by British Columbia Salmon Restoration and Innovation Fund. Members of the planning team (Appendix B) are passionate about the conservation and restoration of freshwater ecosystems and the species they support, and contributed feedback, guidance, and knowledge. Model outputs were further refined based on feedback provided by local knowledge holders beyond the planning team. Accessibility models were inspired by fish-passage prioritization approaches developed by British Columbia’s Fish Passage Technical Working Group. 
 
 ## References {-}
+
+Pacific Salmon Foundation (2024). Cumulative Habitat Pressure Scores in the Central Coast Region [Data set]. Salmon Watersheds Program, Pacific Salmon Foundation. Retrieved from https://data.salmonwatersheds.ca/result?datasetid=327

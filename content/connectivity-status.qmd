@@ -3,23 +3,38 @@
 
 ## Current Connectivity Status {-}
 
+Two Key Ecological Attributes (KEAs) were selected to assess the current connectivity status of the watershed for each focal species: (1) available spawning habitat and (2) available rearing habitat. KEAs are the key aspects of anadromous salmon habitat that are being targeted by this WCRP. For each KEA, an associated indicator was assigned to measure the status of that KEA. The connectivity status indicators were used to establish goals to improve key habitat connectivity over time and is the baseline against which progress is tracked over time. 
 
-## Goals {-}
+Table 1: Connectivity status assessment for spawning habitat in the LDN watersheds. The spawning habitat KEA is evaluated by dividing the length of linear spawning habitat that is currently accessible to focal species by the total length of all linear spawning habitat in the watershed.
 
+In the LDN watersheds, X km of Pacific salmon spawning habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected. 
 
+Table 2: Connectivity status assessment for rearing habitat in the LDN watersheds. The rearing habitat KEA is evaluated by dividing the length of linear rearing habitat that is currently accessible to focal species by the total length of all linear rearing habitat in the watershed.
+
+In the LDN watersheds, X km of Pacific salmon rearing habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected. 
 
 ## Structure Count {-}
 
+In the LDN watersheds, X structures potentially disconnect Pacific salmon spawning habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
 
+In the LDN watersheds, X structures potentially disconnect Pacific salmon rearing habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
 
 ## Maps {-}
+![Figure 1: Map of Pacific salmon spawning habitat and structures that are confirmed or potential barriers to fish passage in the LDN watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon for spawning. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). Excluded structures (e.g., those found to be passable) are not shown on this map.](images/LDN_spawning_2026-05-22.png)
 
+ 
+
+![Figure 2: Map of Pacific salmon rearing habitat and structures that are confirmed or potential barriers to fish passage in the LDN watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon for rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). Excluded structures (e.g., those found to be passable) are not shown on this map.](images/LDN_rearing_2026-05-22.png)
 
 
 ## Habitat Accumulation Curves
 
+![Figure 3: Habitat Accumulation Curve (HAC) showing structures in the LDN watersheds that block Pacific salmon spawning habitat, as of May 2026. Structures are ranked based on how much (km) spawning habitat for Pacific salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/LDN_HAC_spawning.png)
 
+![Figure 4: Habitat Accumulation Curve (HAC) showing structures in the LDN watersheds that block Pacific salmon rearing habitat, as of May 2026. Structures are ranked based on how much (km) rearing habitat for Pacific salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/LDN_HAC_rearing.png)
 
 ## Habitat Accumulation Summary Table
 
+Table 3: Labelled structures in the Habitat Accumulation Curves (Figure 3), their rank, and upstream spawning habitat for adult Pacific salmon in LDN watersheds. Habitat gain (averaged across sets) represents the amount (km) of spawning habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
 
+Table 4: Labelled structures in the Habitat Accumulation Curves (Figure 4), their rank, and upstream rearing habitat for juvenile Pacific salmon in LDN watersheds. Habitat gain (averaged across sets) represents the amount (km) of rearing habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  

@@ -1,0 +1,9 @@
+# Appendix E - Situation Analysis
+
+The following situation model was developed by the WCRP planning team to “map” the project context and potential causes and effects. This can be used as reference and related back to Strategies and Actions going forward.  
+
+
+![Figure 6. Situation analysis developed by the planning team to identify factors (orange boxes) that contribute to the prevalence of culverts (red box) on the landscape, and subject that factors affect (salmon; green oval).](images/Figure6_SituationAnalysisculverts.png)
+
+
+![Figure 7. Situation analysis developed by the planning team to identify factors (orange boxes) that contribute to the prevalence of dams (red box) on the landscape, and subject that factors affect (salmon; green oval).](images/Figure7_SituationAnalysis_dams.png)

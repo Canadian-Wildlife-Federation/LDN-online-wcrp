@@ -12,5 +12,10 @@ format_flextable <- function(ft) {
     align_text_col(align = "left", header = TRUE) %>%
     align_nottext_col(align = "left", header = TRUE) %>%
     autofit()
+
+  if (knitr::is_html_output()) {
+    return(flextable::htmltools_value(ft))
+  }
+
   return(ft)
 }

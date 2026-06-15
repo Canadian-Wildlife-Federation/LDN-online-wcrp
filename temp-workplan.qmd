@@ -1,0 +1,16 @@
+﻿---
+title: temp
+format: html
+engine: knitr
+---
+
+```{r}
+#| echo: false
+#| results: asis
+source('content/Rscripts/table_formatting.R')
+library('flextable')
+data <- read.csv('content/data/LDN_workplan.csv', check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```

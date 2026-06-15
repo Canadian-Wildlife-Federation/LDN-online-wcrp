@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -46,7 +46,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "start",
   "type": "textbox",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -55,6 +61,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -74,16 +81,16 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-sidebar floating fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/project-overview.html">Introduction</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/project-overview.html">Introduction</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -108,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
   
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
       <img src="../images/logo.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
@@ -171,9 +178,9 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
  <span class="menu-text">Appendices</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -193,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../content/appendix-c.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Appendix C – Situation Analys, Strategies, Actions, and Theories of Change</span></a>
+ <span class="menu-text">Appendix C – Connectivity Model Parameters</span></a>
   </div>
 </li>
       </ul>
@@ -201,7 +208,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     
 <!-- main -->
@@ -210,47 +217,40 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+
 <section id="purpose" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="purpose">Purpose</h2>
+<p>The purpose of the Lhtako Dene Nation Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Coho Salmon (Oncorhynchus kisutch), Chum Salmon (O. keta) and Sockeye Salmon (O. nerka) in the portions of the Quesnel, Cariboo, Cottonwood and Bowron watersheds within LDN territory (“LDN watersheds”) and inform efforts to close knowledge gaps and plan and prioritize restoration.</p>
+<p>Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat.</p>
+<p>This information is also used to inform and plan restoration efforts. Structure rankings inform restoration prioritization by summarizing what is known about fragmentation and showing the relative amount of habitat upstream of each barrier. Actual prioritization of restoration activities is a social decision that requires additional information, including the quality and condition of upstream habitat, the cultural importance of different areas within the watershed, and the costs and logistics of addressing each barrier relative to the ecological benefits of doing so.</p>
+<p>As knowledge gaps are closed and barriers are addressed, this plan is revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures.</p>
 </section>
 <section id="vision-statement" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="vision-statement">Vision Statement</h2>
+<p>The Lhtako Dene Nation’s territory and surrounding territories are under increasing environmental threat from human activities and climate change. We aim to provide training and mentorship to members of our community and partnering nations, to enable them to undertake the prevention and mitigation of harmful blockages in our water systems. Our nation’s health, culture, and future depend upon the return of Pacific salmon for future generations. We borrow this land from our youth, and we have a promise to take care of it until they can take of it themselves.</p>
 </section>
 <section id="scope" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="scope">Scope</h2>
+<p>This WCRP focuses on habitat connectivity for Pacific Salmon in the LDN watersheds (Figure 5). Culturally and economically important populations of Chinook, Coho and Sockeye Salmon are all found in these watersheds, which historically supported Indigenous sustenance and trading economies. The model takes into consideration those portions of the LDN watersheds that are expected to support spawning or rearing habitat for all three species of Pacific salmon together, to allow for a more comprehensive planning approach. However, the connectivity status, structure ranks and counts, and maps are presented for Pacific salmon spawning and rearing, separately, to tailor decision-making towards life-stage and habitat specific needs.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<figcaption>Figure 5: Map of the geographic scope of this connectivity restoration plan for Pacific Salmon in the LDN watersheds in British Columbia.</figcaption>
+<p><img src="images/LDN_AOI.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+<p>Connectivity models in this WCRP focus on longitudinal habitat fragmentation by anthropogenic structures, including all types of dams and stream crossings. Additionally, mining activity throughout the watersheds is considered when determining the value of addressing downstream barriers. Natural barriers that could be managed to increase fish passage include sediments at tributary mouths and side channels and beaver dams. Mining activity, sediment accumulation, and beaver dams are not mapped as structures in the connectivity models but are instead flagged as playing an important role in the overall watershed connectivity and habitat quality. Diffuse natural barriers that make entire areas impassible are not included in the models but may be used to define the scope of this WCRP. For example, a tributary that is inhospitable because of increased water temperature may be excluded from the overall spatial scope of the WCRP because restoration needs there are broader than connectivity.</p>
 </section>
-<section id="focal-species" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="focal-species">Focal Species</h2>
-<section id="anadromous-salmon" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="anadromous-salmon">Anadromous Salmon</h3>
+<section id="mining-activity" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="mining-activity">Mining Activity</h2>
+<p>Mining activity in the LDN watersheds includes developed prospects, past producing mineral mines, coal mines with aggregate mines, and placer tenures (Pacific Salmon Foundation 2024). However, the focal area of this WCRP has a history of mining activity that pre-dates the current mining tenure records, and abandoned placer mines are prevalent on the landscape. Many of these mines included stream channel diversions that have the potential to continue to fragment the landscape. A current estimate of disconnected habitat due to mining activity could not be calculated based on the available information in its present form. Barriers resulting from historic or current mining activity could be locally significant. Consideration of how to locate and prioritize sites for field assessment will therefore need to be developed as part of this plan.</p>
 </section>
-<section id="chinook-salmon-kekèsu-oncorhynchus-tshawytscha" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="chinook-salmon-kekèsu-oncorhynchus-tshawytscha">Chinook Salmon | Kekèsu | Oncorhynchus tshawytscha</h3>
+<section id="sediments-at-tributary-mouths-and-side-channels" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="sediments-at-tributary-mouths-and-side-channels">Sediments at Tributary Mouths and Side Channels</h2>
+<p>Downstream transport of sediment from deforestation and land clearing has resulted in accumulation of sediments at tributary mouths and side channels. The location and extent of sediment accumulation is not currently mapped, so an estimate of the disconnected habitat due to sediment accumulation could not be calculated. Barriers resulting from sediment accumulation could be locally significant, particularly if they are located at the mouth of streams with extensive habitat upstream. Consideration of how to locate and prioritize sites for field assessment will therefore need to be developed as part of this plan.</p>
 </section>
-<section id="coho-salmon-sxeyqs-oncorhynchus-kisutch" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="coho-salmon-sxeyqs-oncorhynchus-kisutch">Coho Salmon | Sxeyqs | Oncorhynchus kisutch</h3>
-</section>
-<section id="sockeye-salmon-sqlelten7ùwi-oncorhynchus-nerka" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="sockeye-salmon-sqlelten7ùwi-oncorhynchus-nerka">Sockeye Salmon | Sqlelten7ùwi | Oncorhynchus nerka</h3>
-</section>
-</section>
-<section id="barrier-types" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="barrier-types">Barrier Types</h2>
-</section>
-<section id="road-stream-crossings" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="road-stream-crossings">Road-stream Crossings</h2>
-</section>
-<section id="lateral-barriers" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="lateral-barriers">Lateral Barriers</h2>
-</section>
-<section id="small-dams-3-m-height" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="small-dams-3-m-height">Small Dams (&lt;3 m height)</h2>
-</section>
-<section id="trail-stream-crossings" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="trail-stream-crossings">Trail-stream Crossings</h2>
-</section>
-<section id="natural-barriers" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="natural-barriers">Natural Barriers</h2>
+<section id="beaver-dams" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="beaver-dams">Beaver Dams</h2>
+<p>Beaver dams are relatively common in the LDN watersheds but are often temporary in nature. Although there is a potential for beaver dams to impede or block passage for focal species, the locations of beaver dams are currently unmapped and may not be easily mapped due to the ongoing formation and varying persistence on the landscape. Although beaver dams can be easily managed when impeding fish passage, doing so may require annual staff and resources allocated to beaver dam removal. There is an interest in understanding how beaver dams were traditionally managed by the Lhtako Dene peoples.</p>
 
 
 </section>
@@ -291,18 +291,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -334,11 +323,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -348,8 +376,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -361,7 +398,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -405,6 +565,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -430,6 +591,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -491,17 +678,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link">
+      <a href="../index.html" class="pagination-link" aria-label="Executive Summary">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Executive Summary</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../content/glossary.html" class="pagination-link">
+      <a href="../content/glossary.html" class="pagination-link" aria-label="Glossary">
         <span class="nav-page-text">Glossary</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
 </div> <!-- /content -->
+
 
 
 

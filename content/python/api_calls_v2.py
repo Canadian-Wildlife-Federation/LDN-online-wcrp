@@ -3,6 +3,7 @@ import requests
 
 API_URL = "https://cabd-pro.cwf-fcf.org/bcfishpass/functions/postgisftw.wcrp_habitat_connectivity_status_v2/items.json"
 STRUCTURE_COUNT_API_URL = "https://cabd-pro.cwf-fcf.org/bcfishpass/functions/postgisftw.get_structure_count_spp/items.json"
+COMBINED_OUTPUT_API_URL = "https://cabd-pro.cwf-fcf.org/bcfishpass/collections/wcrp_bowr_ques_carr.combined_output_table_vw/items.json"
 
 
 def get_connectivity(watershed_group_code=None, habitat_type=None, species_code=None):
@@ -85,3 +86,32 @@ def get_structure_count_value(wcrp, spp, metric_name):
         )
 
     return int(df.loc[0, metric_name])
+
+
+def get_combined_output():
+    response = requests.get(COMBINED_OUTPUT_API_URL)
+    response.raise_for_status()
+
+    data = response.json()
+    rows = [feature.get("properties", {}) for feature in data.get("features", [])]
+    return pd.DataFrame(rows)
+
+
+def count_completed_assessments():
+    df = get_combined_output()
+
+    if "assessment_type_completed" not in df.columns:
+        raise KeyError("Metric 'assessment_type_completed' was not found.")
+
+    values = df["assessment_type_completed"].fillna("").astype(str).str.strip()
+    return int(((values.ne("")) & (values.str.lower().ne("null"))).sum())
+
+
+def count_assessment_type(assessment_type):
+    df = get_combined_output()
+
+    if "assessment_type_completed" not in df.columns:
+        raise KeyError("Metric 'assessment_type_completed' was not found.")
+
+    values = df["assessment_type_completed"].fillna("").astype(str).str.strip()
+    return int(values.str.lower().eq(assessment_type.strip().lower()).sum())

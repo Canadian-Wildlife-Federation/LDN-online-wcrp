@@ -2,15 +2,51 @@
 
 ## Non-Actionable Barriers
 
-Table 7: Structures in LDN watersheds that are confirmed as barriers to fish passage for Pacific salmon as of May 2026 but have been identified by the planning team as non-actionable due to either logistic considerations (e.g., financial costs) or low-quality upstream habitat. 
+```{r tbl7, echo = FALSE, results = 'asis'}
+#| label: tbl7
+#| tbl-cap: 'Table 7: Structures in LDN watersheds that are confirmed as barriers to fish passage for Pacific salmon as of May 2026 but have been identified by the planning team as non-actionable due to either logistic considerations (e.g., financial costs) or low-quality upstream habitat. '
+#| warning: false
+#| echo: false
+source("Rscripts/table_formatting.R")
+library("flextable")
 
+data <- read.csv("data/LDN_non_actionable.csv", check.names=FALSE)
+ft <- flextable(data)
+
+ft <- format_flextable(ft)
+ft
+```
 ## Data-deficient Barriers {-}
 
-Table 8: Structures in LDN watersheds that have been assessed for fish passage for Pacific Salmon as of May 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat values.  
+```{r tbl8, echo = FALSE, results = 'asis'}
+#| label: tbl8
+#| tbl-cap: 'Table 8: Structures in LDN watersheds that have been assessed for fish passage for Pacific Salmon as of May 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat values.'
+#| warning: false
+#| echo: false
+source("Rscripts/table_formatting.R")
+library("flextable")
 
+data <- read.csv("data/LDN_data_deficient.csv", check.names=FALSE)
+ft <- flextable(data)
+
+ft <- format_flextable(ft)
+ft
+```
 ## Excluded Structures {-}
 
-Table 9: Structures in LDN watersheds that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, is confirmed passable (e.g., bridge), or has no habitat upstream for Pacific Salmon.  
+```{r tbl9, echo = FALSE, results = 'asis'}
+#| label: tbl9
+#| tbl-cap: 'Table 9: Structures in LDN watersheds that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, is confirmed passable (e.g., bridge), or has no habitat upstream for Pacific Salmon.'
+#| warning: false
+#| echo: false
+source("Rscripts/table_formatting.R")
+library("flextable")
 
+data <- read.csv("data/LDN_data_deficient.csv", check.names=FALSE)
+ft <- flextable(data)
+
+ft <- format_flextable(ft)
+ft
+```
 
 

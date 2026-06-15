@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: ""
+  title: "Lhtako Dene Nation (LDN) Territory Watershed Connectivity Restoration Plan (WCRP)"
   author: "Canadian Wildlife Federation"
   date: last-modified
   date-format: "DD-MM-YYYY"
@@ -20,7 +20,8 @@ book:
     - content/appendix-a.qmd
     - content/appendix-b.qmd
     - content/appendix-c.qmd 
-  
+    - content/appendix-d.qmd 
+    - content/appendix-e.qmd   
   
   sidebar: 
     pinned: true

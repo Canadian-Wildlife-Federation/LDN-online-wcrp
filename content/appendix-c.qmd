@@ -3,7 +3,19 @@
 The variables and thresholds used to model potential spawning and rearing habitat for each focal species are summarized in Table 11. The quantity of modelled habitat for each species was aggregated for each habitat type and represents a linear measure of potential habitat. To recognize the rearing value provided by features represented by polygons for certain species (e.g., wetlands for Coho Salmon and lakes for Sockeye Salmon) a multiplier of 1.5x the length of the stream segments flowing through the polygons was applied. 
 
 
-Table 11: Parameters and thresholds used to inform the Intrinsic Potential model for spawning and rearing habitat for each focal species of the WCRP. 
+```{r tbl11, echo = FALSE, results = 'asis'}
+#| label: tbl11
+#| tbl-cap: 'Table 11: Parameters and thresholds used to inform the Intrinsic Potential model for spawning and rearing habitat for each focal species of the WCRP.'
+#| warning: false
+#| echo: false
+source("Rscripts/table_formatting.R")
+library("flextable")
 
+data <- read.csv("data/LDN_params.csv", check.names=FALSE)
+ft <- flextable(data)
+
+ft <- format_flextable(ft)
+ft
+```
 
 References: [1] Busch et al. (2011), [2] Cooney and Holzer (2006), [3] Bjornn and Reiser (1991), [4] Neuman and Newcombe (1977), [5] Woll, Albert, and Whited (2017), [6] Roberge et al. (2002), [7] Raleigh and Miller (1986), [8] Porter et al. (2008), [9] Agrawal et al. (2005), [10] Sloat, Reeves, and Christiansen (2017), [11] McMahon (1983), [12] Rosenfeld, Porter, and Parkinson (2000), [13] Burnett et al. (2007), [14] Lake (1999), [15] Hoopes (1972). 

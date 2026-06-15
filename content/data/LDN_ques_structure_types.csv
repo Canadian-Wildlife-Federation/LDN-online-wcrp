@@ -1,6 +1,6 @@
-Structure Type ,Extent ,Severity ,Overall Threat Rating 
-Culverts ,Low ,High ,Medium 
-Dams ,Low ,Very High ,High 
-Mining activity ,Medium ,Low ,Low 
-Sediments at tributary mouths and side channels ,Low ,Medium ,Low 
-Beaver dams ,n/a ,n/a ,n/a 
+Structure Type,Extent,Severity,OverallThreat Rating
+Culverts,Low,High,Medium
+Dams,Low,Very High,High
+Mining activity,Medium,Low,Low
+Sediments at tributary mouths and side channels,Low,Medium,Low
+Beaver dams,n/a,n/a,n/a

@@ -1,70 +1,28 @@
 
 ---
-jupyter: python3
+engine: knitr
 ---
 
 # Key Ecological Attributes and Connectivity Status Results  {-}
-
-```{python}
-#| echo: false
-#| output: false
-import sys
-from pathlib import Path
-
-sys.path.append(str(Path.cwd().resolve().parent))
-
-from content.python.api_calls_v2 import get_metric_value, get_structure_count_value
-
-spawning_connected_km = get_metric_value("BOWR", "accessible_spawning_all")
-spawning_disconnected_km = get_metric_value("BOWR", "disconnected_spawning_all")
-spawning_total_km = get_metric_value("BOWR", "total_spawning_all")
-spawning_connected_pct = round((spawning_connected_km / spawning_total_km) * 100, 1)
-
-rearing_connected_km = get_metric_value("BOWR", "accessible_rearing_all")
-rearing_disconnected_km = get_metric_value("BOWR", "disconnected_rearing_all")
-rearing_total_km = get_metric_value("BOWR", "total_rearing_all")
-rearing_connected_pct = round((rearing_connected_km / rearing_total_km) * 100, 1)
-
-potentially_disconnect_spawning_structures = get_structure_count_value(
-    "bowr_ques_carr", "all_spawning", "structures_that_potentially_disconnect_habitat"
-)
-potentially_disconnect_rearing_structures = get_structure_count_value(
-    "bowr_ques_carr", "all_rearing", "structures_that_potentially_disconnect_habitat"
-)
-priority_barriers = get_structure_count_value(
-    "bowr_ques_carr", "all_spawningrearing", "priority_barriers"
-)
-non_actionable_spawning = get_structure_count_value(
-    "bowr_ques_carr", "all_spawning", "non_actionable_barriers"
-)
-non_actionable_rearing = get_structure_count_value(
-    "bowr_ques_carr", "all_rearing", "non_actionable_barriers"
-)
-further_field_assessment_spawning = get_structure_count_value(
-    "bowr_ques_carr", "all_spawning", "require_further_assessment"
-)
-further_field_assessment_rearing = get_structure_count_value(
-    "bowr_ques_carr", "all_rearing", "require_further_assessment"
-)
-```
 
 ## Current Connectivity Status {-}
 
 Two Key Ecological Attributes (KEAs) were selected to assess the current connectivity status of the watershed for each focal species: (1) available spawning habitat and (2) available rearing habitat. KEAs are the key aspects of anadromous salmon habitat that are being targeted by this WCRP. For each KEA, an associated indicator was assigned to measure the status of that KEA. The connectivity status indicators were used to establish goals to improve key habitat connectivity over time and is the baseline against which progress is tracked over time. 
 
-Table 1: Connectivity status assessment for spawning habitat in the LDN watersheds. The spawning habitat KEA is evaluated by dividing the length of linear spawning habitat that is currently accessible to focal species by the total length of all linear spawning habitat in the watershed.
+![Table 1: Connectivity status assessment for spawning habitat in the LDN watersheds. The spawning habitat KEA is evaluated by dividing the length of linear spawning habitat that is currently accessible to focal species by the total length of all linear spawning habitat in the watershed.](images/ldn_tbl1.png){fig-cap-location="top"}
 
-In the LDN watersheds, `{python} spawning_connected_km` km of Pacific salmon spawning habitat are currently connected to the ocean and `{python} spawning_disconnected_km` km are disconnected from it. This means that `{python} spawning_connected_pct`% of the `{python} spawning_total_km` km of total habitat is connected. 
+In the LDN watersheds, 590.65 km of Pacific salmon spawning habitat are currently connected to the ocean and 122.44 km are disconnected from it. This means that 82.8% of the 713.09 km of total habitat is connected. 
 
 Table 2: Connectivity status assessment for rearing habitat in the LDN watersheds. The rearing habitat KEA is evaluated by dividing the length of linear rearing habitat that is currently accessible to focal species by the total length of all linear rearing habitat in the watershed.
+![Table 2: Connectivity status assessment for rearing habitat in the LDN watersheds. The rearing habitat KEA is evaluated by dividing the length of linear rearing habitat that is currently accessible to focal species by the total length of all linear rearing habitat in the watershed.](images/ldn_tbl1b.png){fig-cap-location="top"}
 
-In the LDN watersheds, `{python} rearing_connected_km` km of Pacific salmon rearing habitat are currently connected to the ocean and `{python} rearing_disconnected_km` km are disconnected from it. This means that `{python} rearing_connected_pct`% of the `{python} rearing_total_km` km of total habitat is connected. 
+In the LDN watersheds, 896.57 km of Pacific salmon rearing habitat are currently connected to the ocean and 334.17 km are disconnected from it. This means that 72.8% of the 1230.74 km of total habitat is connected. 
 
 ## Structure Count {-}
 
-In the LDN watersheds, `{python} potentially_disconnect_spawning_structures` structures potentially disconnect Pacific salmon spawning habitat. Of these, `{python} priority_barriers` are identified as barriers in need of rehabilitation (priority barriers), `{python} non_actionable_spawning` are identified as barriers that do not warrant rehabilitation (non-actionable), and `{python} further_field_assessment_spawning` require further field assessment. 
+In the LDN watersheds, 112 structures potentially disconnect Pacific salmon spawning habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 110 require further field assessment. 
 
-In the LDN watersheds, `{python} potentially_disconnect_rearing_structures` structures potentially disconnect Pacific salmon rearing habitat. Of these, `{python} priority_barriers` are identified as barriers in need of rehabilitation (priority barriers), `{python} non_actionable_rearing` are identified as barriers that do not warrant rehabilitation (non-actionable), and `{python} further_field_assessment_rearing` require further field assessment. 
+In the LDN watersheds, 534 structures potentially disconnect Pacific salmon rearing habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 532 require further field assessment. 
 
 ## Maps {-}
 ![Figure 1: Map of Pacific salmon spawning habitat and structures that are confirmed or potential barriers to fish passage in the LDN watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon for spawning. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). Excluded structures (e.g., those found to be passable) are not shown on this map.](images/LDN_spawning_2026-05-22.png)
@@ -82,6 +40,18 @@ In the LDN watersheds, `{python} potentially_disconnect_rearing_structures` stru
 
 ## Habitat Accumulation Summary Table
 
-Table 3: Labelled structures in the Habitat Accumulation Curves (Figure 3), their rank, and upstream spawning habitat for adult Pacific salmon in LDN watersheds. Habitat gain (averaged across sets) represents the amount (km) of spawning habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
+```{r}
+#| label: tbl3
+#| tbl-cap: 'Table 3: Labelled structures in the Habitat Accumulation Curves (Figure 3), their rank, and upstream spawning habitat for adult Pacific salmon in LDN watersheds. Habitat gain (averaged across sets) represents the amount (km) of spawning habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.'
+#| warning: false
+#| echo: false
+#| results: asis
+source("Rscripts/table_formatting.R")
+library("flextable")
 
-Table 4: Labelled structures in the Habitat Accumulation Curves (Figure 4), their rank, and upstream rearing habitat for juvenile Pacific salmon in LDN watersheds. Habitat gain (averaged across sets) represents the amount (km) of rearing habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
+data <- read.csv("data/LDN_HAS.csv", check.names=FALSE)
+ft <- flextable(data)
+
+ft <- format_flextable(ft)
+ft
+```

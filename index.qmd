@@ -8,7 +8,15 @@ jupyter: python3
 ```{python}
 #| echo: false
 #| output: false
-from content.python.api_calls_v2 import get_metric_value, get_structure_count_value
+import importlib
+import content.python.api_calls_v2 as api_calls_v2
+
+importlib.reload(api_calls_v2)
+
+count_assessment_type = api_calls_v2.count_assessment_type
+count_completed_assessments = api_calls_v2.count_completed_assessments
+get_metric_value = api_calls_v2.get_metric_value
+get_structure_count_value = api_calls_v2.get_structure_count_value
 
 spawning_connected_km = get_metric_value("BOWR", "accessible_spawning_all")
 spawning_disconnected_km = get_metric_value("BOWR", "disconnected_spawning_all")
@@ -41,6 +49,9 @@ further_field_assessment_spawning = get_structure_count_value(
 further_field_assessment_rearing = get_structure_count_value(
     "bowr_ques_carr", "all_rearing", "require_further_assessment"
 )
+
+assessed_structures = count_completed_assessments()
+habitat_confirmations = count_assessment_type("Habitat confirmation")
 ```
 
 The purpose of the Lhtako Dene Nation (LDN) Territory Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Coho Salmon (Oncorhynchus kisutch), Chum Salmon (O. keta), and Sockeye Salmon (O. nerka) in the portions of the Quesnel, Cariboo, Cottonwood, and Bowron watersheds within LDN territory. For practicality, these watersheds will be referred to as “LDN watersheds” throughout the report. Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat, and informing restoration prioritization. As knowledge gaps are closed and barriers are addressed, this plan will be revised to summarize progress and provide updated estimates of connectivity status and the status and relative importance of remaining structures. 
@@ -61,4 +72,4 @@ In the LDN watersheds, `{python} potentially_disconnect_rearing_structures` stru
 
 ![Figure 4: Habitat Accumulation Curve (HAC) showing structures in the LDN watersheds that block Pacific salmon rearing habitat, as of May 2026. Structures are ranked based on how much (km) rearing habitat for Pacific salmon is upstream. The y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](content/images/LDN_HAC_rearing.png){fig-cap-location="top"}
 
-This WCRP was initiated in 2023. The initial development of the WCRP included portions of the Quesnel, Bowron, and Cariboo watersheds. Several scoping exercises were completed by the planning team to help guide the initial development of the WCRP, including a threats assessment that detailed the extent, severity, and overall threat of all five barrier types in the Bowron, Quesnel, and Cariboo (see Appendix D). Situation analyses were also completed by the planning team to identify factors that contribute to the prevalence of culverts and dams on the landscape (see Appendix E). In 2025, the geographic scope of the WCRP expanded to include portions of the Cottonwood watershed. Since 2023, the passability of X structures has been assessed, and further habitat assessments were completed at X of these.  
+This WCRP was initiated in 2023. The initial development of the WCRP included portions of the Quesnel, Bowron, and Cariboo watersheds. Several scoping exercises were completed by the planning team to help guide the initial development of the WCRP, including a threats assessment that detailed the extent, severity, and overall threat of all five barrier types in the Bowron, Quesnel, and Cariboo (see Appendix D). Situation analyses were also completed by the planning team to identify factors that contribute to the prevalence of culverts and dams on the landscape (see Appendix E). In 2025, the geographic scope of the WCRP expanded to include portions of the Cottonwood watershed. Since 2023, the passability of `{python} assessed_structures` structures has been assessed, and further habitat assessments were completed at `{python} habitat_confirmations` of these.  

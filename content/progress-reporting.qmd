@@ -34,6 +34,15 @@ No barriers were rehabilitated through the implementation of this WCRP as of May
 
 ## Annual Progress Report {-}
 
+Since March 2025, the following actions were completed: 
+- The WCRP geographic scope was expanded to include the Cottonwood watershed. The national hydro network layer was processed to develop an initial spawning and rearing model for Pacific salmon. Satellite imagery was reviewed to exclude structures that could be visibly verified to be a bridge, not exist, or were cross ditches that did not connect to a stream. 
+
+- LDN fisheries technicians completed assessments of structures in the LDN watersheds. Field results still need to be reviewed and incorporated into the model. 
+
+- CWF provided LDN planning team members with QGIS (free and open-source geographic information system software) technical support and onboarding, as well as training to: 
+    complete guided and independent PSCIS and satellite review of modelled-stream crossings in QGIS, 
+    fix submissions via CSV, and 
+    run a tributary-by-tributary mapping exercise for the Cottonwood and digitize data into QGIS. 
 
 ## Priority Barriers {-}
 

@@ -3,7 +3,7 @@
 
 ## Purpose{-}
 
-The purpose of the Lhtako Dene Nation Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Coho Salmon (Oncorhynchus kisutch), Chum Salmon (O. keta) and Sockeye Salmon (O. nerka) in the portions of the Quesnel, Cariboo, Cottonwood and Bowron watersheds within LDN territory (“LDN watersheds”) and inform efforts to close knowledge gaps and plan and prioritize restoration.  
+The purpose of the Lhtako Dene Nation Watershed Connectivity Restoration Plan (WCRP) is to improve understanding of habitat connectivity for Coho Salmon (*Oncorhynchus kisutch*), Chum Salmon (*O. keta*) and Sockeye Salmon (*O. nerka*) in the portions of the Quesnel, Cariboo, Cottonwood and Bowron watersheds within LDN territory (“LDN watersheds”) and inform efforts to close knowledge gaps and plan and prioritize restoration.  
 
 Local data and knowledge are combined with connectivity modelling to estimate current connectivity status and identify structures that potentially block the most habitat. This informs the prioritization of field assessments to close the most significant knowledge gaps efficiently. Information from field assessments of barrier status and habitat condition are incorporated into the model, improving understanding of which barriers block the most habitat. 
 

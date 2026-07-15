@@ -11,4 +11,38 @@ The lands and waters that form the basis of this plan are the traditional uncede
 
 ## References {-}
 
-Pacific Salmon Foundation (2024). Cumulative Habitat Pressure Scores in the Central Coast Region [Data set]. Salmon Watersheds Program, Pacific Salmon Foundation. Retrieved from https://data.salmonwatersheds.ca/result?datasetid=327
+Agrawal, A, R S Schick, E P Bjorkstedt, R G Szerlong, M N Goslin, B C Spence, T H Williams, and K M Burnett. 2005. Predicting the Potential for Historical Coho, Chinook, and Steelhead Habitat in Northern California. National Oceanic and Atmospheric Administration. 
+
+Bjornn, T C, and D W Reiser. 1991. “Habitat Requirements of Salmonids in Streams.” Influences of Forest and Rangeland Management on Salmonid Fishes and Their Habitats 19: 83–138. 
+
+Burnett, Kelly M, Gordon H Reeves, Daniel J Miller, Sharon Clarke, Ken Vance-Borland, and Kelly Christiansen. 2007. “Distribution of Salmon-Habitat Potential Relative to Landscape Characteristics and Implications for Conservation.” Ecol. Appl. 17 (1): 66–80.  
+
+Busch, D S, M Sheer, K Burnett, P Mcelhany, and T Cooney. 2011. “Landscape-Level Model to Predict Spawning Habitat for Lower Columbia River Fall Chinook Salmon (Oncorhynchus tshawytscha).” River Research Applications 29: 291–312. 
+
+Cooney, T, and D Holzer. 2006. Appendix c: Interior Columbia Basin Stream Type Chinook Salmon and Steelhead Populations: Habitat Intrinsic Potential Analysis. National Oceanic and Atmospheric Administration. Northwest Fisheries Center: Northwest Fisheries Center. 
+
+Hoopes, D Y. 1972. Selection of Spawning Sites by Sockeye Salmon in Small Streams. Fishery Bulletin.  
+
+Lhtako Dene Nation. 2024. Fish passage barrier assessments and habitat confirmations at stream crossings in the Bowron, Quesnel, and Cariboo River watersheds. Prepared for Canadian Wildlife Federation by Lhtako Dene Nation, Quesnel, B.C.  
+
+Lhtako Dene Nation. 2025. Fish passage barrier assessments at stream crossings in the Bowron, Quesnel, and Cariboo River watersheds (2024 field season). Prepared for Canadian Wildlife Federation by Lhtako Dene Nation, Quesnel, B.C.  
+
+McMahon, T E. 1983. “Habitat Suitability Index Models: Coho Salmon.” U.S. Department of the Interior, Fish and Wildlife Service 29.  
+
+Neuman, H R, and C P Newcombe. 1977. Minimum Acceptable Stream Flows in British Columbia: A Review. Fisheries Management Report No. 70. 
+
+Pacific Salmon Foundation (2024). Cumulative Habitat Pressure Scores in the Central Coast Region [Data set]. Salmon Watersheds Program, Pacific Salmon Foundation. Retrieved from https://data.salmonwatersheds.ca/result?datasetid=327 
+
+Porter, M, D Pickard, K Wieckowski, and K Bryan. 2008. Developing Fish Habitat Models for Broad-Scale Forest Planning in the Southern Interior of B.C. ESSA Technologies Ltd.; B.C. Ministry of Environment. 
+
+Raleigh, R F, and W J Miller. 1986. Habitat Suitability Index Models and Instream Flow Suitability Curves: Chinook Salmon. U.S. Fish and Wildlife Service Biological Reports 82. USFW. 
+
+Roberge, M, J B M Hume, C K Minns, and T Slaney. 2002. Life History Characteristics of Freshwater Fishes Occurring in British Columbia and the Yukon, with Major Emphasis on Stream Habitat Characteristics. Cultus Lake, British Columbia: Fisheries; Oceans Canada, Marine Environment; Habitat Science Division. 
+
+Rosenfeld, Jordan, Marc Porter, and Eric Parkinson. 2000. “Habitat Factors Affecting the Abundance and Distribution of Juvenile Cutthroat Trout (Oncorhynchus Clarki) and Coho Salmon (Oncorhynchus Kisutch).” Can. J. Fish. Aquat. Sci. 57 (4): 766–74. 
+
+Sheer, M B, D S Busch, E Gilbert, J M Bayer, S Lanigan, J L Schei, K M Burnett, and D Miller. 2009. Development and Management of Fish Intrinsic Potential Data and Methodologies: State of the IP 2008 Summary Report. Pacific Northwest Aquatic Monitoring Partnership Series 2009—4, 56 pp.  
+
+Sloat, Matthew R, Gordon H Reeves, and Kelly R Christiansen. 2017. “Stream Network Geomorphology Mediates Predicted Vulnerability of Anadromous Fish Habitat to Hydrologic Change in Southeast Alaska.” Glob. Chang. Biol. 23 (2): 604–20. 
+
+Woll, C, D Albert, and D Whited. 2017. A Preliminary Classification and Mapping of Salmon Ecological Systems in the Nushagak and Kvichak Watersheds. Alaska: The Nature Conservancy. 

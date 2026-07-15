@@ -20,9 +20,9 @@ In the LDN watersheds, 896.57 km of Pacific salmon rearing habitat are currently
 
 ## Structure Count {-}
 
-In the LDN watersheds, 112 structures potentially disconnect Pacific salmon spawning habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 110 require further field assessment. 
+In the LDN watersheds, 112 structures potentially disconnect Pacific salmon spawning habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 1 is identified as barriers that do not warrant rehabilitation (non-actionable), and 110 require further field assessment. 
 
-In the LDN watersheds, 534 structures potentially disconnect Pacific salmon rearing habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 532 require further field assessment. 
+In the LDN watersheds, 534 structures potentially disconnect Pacific salmon rearing habitat. Of these, 2 are identified as barriers in need of rehabilitation (priority barriers), 1 is identified as barriers that do not warrant rehabilitation (non-actionable), and 532 require further field assessment. 
 
 ## Maps {-}
 ![Figure 1: Map of Pacific salmon spawning habitat and structures that are confirmed or potential barriers to fish passage in the LDN watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon for spawning. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures). Excluded structures (e.g., those found to be passable) are not shown on this map.](images/LDN_spawning_2026-05-22.png)

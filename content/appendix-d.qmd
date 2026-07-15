@@ -1,6 +1,7 @@
 # Appendix D - Structure Types {-}
 
 Table 12 and 13 highlight which structures pose the greatest threat to Pacific salmon in the Quesnel, Cariboo and Bowron River watersheds, respectively. The results of this assessment were used to inform the subsequent planning steps, as well as to identify knowledge gaps where there is little spatial data to inform the assessment for a specific structure type. This step was completed prior to the WCRP expanding to include the Cottonwood watershed.  
+
 ![Table 12: Structure types in the Quesnel watershed (including a portion of the Cariboo River watershed) and structure rating assessment results. For each structure type listed, Extent refers to the proportion of key habitat for focal species that is being blocked by that structure type, and Severity is the proportion of structures for each structure type that are known to block passage for focal species based on field assessments. Key habitat for the purpose of this exercise is defined as the total amount of combined spawning and rearing habitat.](images/ldn_tbl12.PNG)
 
 

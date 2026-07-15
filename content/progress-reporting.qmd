@@ -1,10 +1,12 @@
----
-jupyter: python3
----
-
 # Progress Reporting {-}
 
 ## Progress Reporting {-}
+
+```{r}
+#| label: setup
+#| include: false
+Sys.setenv(RETICULATE_PYTHON = "C:/Python312/python.exe")
+```
 
 ```{python}
 #| echo: false
@@ -26,7 +28,7 @@ assessed_structures = count_completed_assessments()
 habitat_confirmations = count_assessment_type("Habitat confirmation")
 ```
 
-This WCRP was initiated in 2023. The initial development of the WCRP included portions of the Quesnel, Bowron, and Cariboo watersheds. Several scoping exercises were completed by the planning team to help guide the initial development of the WCRP, including a threats assessment that detailed the extent, severity, and overall threat of all five barrier types in the Bowron, Quesnel, and Cariboo (see Appendix D). Situation analyses were also completed by the planning team to identify factors that contribute to the prevalence of culverts and dams on the landscape (see Appendix E). In 2025, the geographic scope of the WCRP expanded to include portions of the Cottonwood watershed. Since 2023, the passability of `{python} assessed_structures` structures has been assessed, and further habitat assessments were completed at `{python} habitat_confirmations` of these.  
+This WCRP was initiated in 2023. The initial development of the WCRP included portions of the Quesnel, Bowron, and Cariboo watersheds. Several scoping exercises were completed by the planning team to help guide the initial development of the WCRP, including a threats assessment that detailed the extent, severity, and overall threat of all five barrier types in the Bowron, Quesnel, and Cariboo (see Appendix D). Situation analyses were also completed by the planning team to identify factors that contribute to the prevalence of culverts and dams on the landscape (see Appendix E). In 2025, the geographic scope of the WCRP expanded to include portions of the Cottonwood watershed. Since 2023, the passability of `r reticulate::py$assessed_structures` structures has been assessed, and further habitat assessments were completed at `r reticulate::py$habitat_confirmations` of these.  
 
 ## Rehabilitated Barriers {-}
 
@@ -46,7 +48,7 @@ Since March 2025, the following actions were completed:
 
 ## Priority Barriers {-}
 
-```{r tbl6, echo = FALSE, results = 'asis'}
+```{r}
 #| label: tbl6
 #| tbl-cap: 'Table 6: Structures in the LDN watersheds that are confirmed as barriers to fish passage for Pacific salmon with confirmed spawning or rearing habitat upstream, as of May 2026. Habitat gain represents the amount (km) of spawning or rearing habitat upstream of that barrier to the next structure that will be reconnected for Pacific salmon if that barrier is addressed. The number of structures in a set represents the number of structures that must be addressed concurrently to maximize habitat connectivity. Barriers known to be partially passable are indicated by “yes”, with further details provided in the adjacent column.'
 #| warning: false

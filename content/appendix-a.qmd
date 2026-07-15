@@ -42,7 +42,7 @@ ft
 source("Rscripts/table_formatting.R")
 library("flextable")
 
-data <- read.csv("data/LDN_data_deficient.csv", check.names=FALSE)
+data <- read.csv("data/LDN_excluded.csv", check.names=FALSE)
 ft <- flextable(data)
 
 ft <- format_flextable(ft)

@@ -14,7 +14,7 @@ Model ranks provide only limited information on the relative value of rehabilita
 
 ```{r tbl5, echo = FALSE, results = 'asis'}
 #| label: tbl5
-#| tbl-cap: 'Implementation plan for 2026-27 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Pacific Salmon in the LDN watersheds. Steps to incorporate field data, update models, and revise this WCRP are also included. {#tbl-table-8}'
+#| tbl-cap: 'Implementation plan for 2026-27 to close knowledge gaps and advance barrier rehabilitation to improve connectivity for Pacific Salmon in the LDN watersheds. Steps to incorporate field data, update models, and revise this WCRP are also included.'
 #| warning: false
 #| echo: false
 source("Rscripts/table_formatting.R")
